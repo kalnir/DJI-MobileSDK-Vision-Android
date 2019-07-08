@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <calibration_time>Tue 03 Jul 2018 04:09:32 PM PDT</calibration_time>
+    <image_width>1280</image_width>
+    <image_height>720</image_height>
+    <board_width>8</board_width>
+    <board_height>6</board_height>
+    <square_size>0.02500000037252903</square_size>
+    <flags>0</flags>
+    <camera_matrix>
+        <rows>3</rows>
+        <cols>3</cols>
+        <dt>d</dt>
+        <data>1270.2029303551683</data>
+        <data>0</data>
+        <data>703.6965295233272</data>
+        <data>0</data>
+        <data>1268.2183239938338</data>
+        <data>313.4236974500568</data>
+        <data>0</data>
+        <data>0</data>
+        <data>1</data>
+    </camera_matrix>
+    <distortion_coefficients>
+        <rows>5</rows>
+        <cols>1</cols>
+        <dt>d</dt>
+        <data>0.032177759275048554</data>
+        <data>1.1688831035623757</data>
+        <data>-0.01674235754304965</data>
+        <data>0.01417338480909135</data>
+        <data>-6.191471883187685</data>
+    </distortion_coefficients>
+    <avg_reprojection_error>0.5704380565780912</avg_reprojection_error>
+</root>

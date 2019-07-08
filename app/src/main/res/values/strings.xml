@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DJI-Vision</string>
+    <string name="product_information">Product Information</string>
+    <string name="title_main_activity">DJI Vision</string>
+    <string name="connection_loose">Status: No Product Connected</string>
+    <string name="model_not_available">Model Not Available</string>
+    <string name="sdk_version">DJI SDK Version: %1$s</string>
+    <string name="blur">BLUR</string>
+    <string name="edge">EDGE</string>
+    <string name="features">FEATURES</string>
+    <string name="move">MOVE</string>
+    <string name="aruco">ARUCO</string>
+    <string name="ar">AR</string>
+    <string name="gimbal">GIMBAL</string>
+    <string name="takeoff">TAKEOFF</string>
+    <string name="land">LAND</string>
+    <string name="flying">Aircraft Flying</string>
+    <string name="landed">Aircraft Landed</string>
+</resources>
