@@ -10,6 +10,8 @@ This project opens the door of using DJI's consumer drones, to do near-real-time
 
 If you would like to use an iOS device instead, checkout [this](https://github.com/SamuelWangDJI/dji-mobilesdk-vision) repository.
 
+This repository uses the binaries provided by OpenCV for Android as well as the Aruco module from OpenCV contrib. You can find the license and code for OpenCV [here](https://github.com/opencv/opencv) and the OpenCV Contrib modules [here](https://github.com/opencv/opencv_contrib).
+
 ## Getting Started
 ### Clone the Project
 Clone the project from this git repository.
