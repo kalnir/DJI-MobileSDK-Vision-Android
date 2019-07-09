@@ -18,9 +18,9 @@ Clone the project from this git repository.
 To open an existing project in Android Studio, select **File -> New -> Import Project** or select **Open an existing Android Studio Project** from the welcome screen. In the file browser that appears, select the **DJI-MobileSDK-Vision-Android** folder and click **Open**. Once the Gradle Build has finished running, you should be able to build the project. 
 
 ### Get Keys
-Register for a DJI Developer account [here](https://account.dji.com/register?appId=dji_sdk&locale=en_US) or sign into your existing account. Then [generate an app key](https://developer.dji.com/mobile-sdk/documentation/quick-start/index.html#generate-an-app-key). Make sure to enter "com.dji.mobilesdk.vision" as the package name for your new app. More information on this [here](https://developer.dji.com/mobile-sdk/documentation/quick-start/index.html).
+Register for a DJI Developer account [here](https://account.dji.com/register?appId=dji_sdk&locale=en_US) or sign into your existing account. Then [generate an app key](https://developer.dji.com/mobile-sdk/documentation/quick-start/index.html#generate-an-app-key). Make sure to enter "com.dji.mobilesdk.vision" as the package name for your new app.
 
-### Add Keys to the Sample Application
+### Add Keys to your Application
 Open the file **DJI-Mobile-Vision-Internal/app/src/main/AndroidManifest.xml** and replace "YOUR KEY HERE" with your generated App Key string.
 
 ### Running the App on an Android Mobile Device
